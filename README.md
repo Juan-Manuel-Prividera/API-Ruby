@@ -1,7 +1,7 @@
 # Que es esto?
 Esta es una API que desarrolle en Ruby utilanzo el framework Rails, tiene persistencia en base de datos MySQL. 
 Es muy simple es parte de un proyecto mas grande, dicho proyecto consume esta API.
-
+El proyecto que consume esta api es: https://github.com/Juan-Manuel-Prividera/Simeal-Sistema-Web
 
 # Instrucciones de instalación 
 git clone https://github.com/JuanManuelPrividera/API_RecomendacionColaboradores.git
